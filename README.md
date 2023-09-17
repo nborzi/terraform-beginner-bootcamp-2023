@@ -6,6 +6,8 @@ git push
 git pull 
 git tag <tag version number>
 git push --tags
+git fetch origin
+git checkout -b <branch name>
 
 # Semantic Versioning 2.0.0
 ## Summary
