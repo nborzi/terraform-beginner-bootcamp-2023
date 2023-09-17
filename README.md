@@ -1,5 +1,12 @@
 # Terraform Beginner Bootcamp 2023
 
+# Handy Commands
+git checkout -b <name of the branch>
+git push 
+git pull 
+git tag <tag version number>
+git push --tags
+
 # Semantic Versioning 2.0.0
 ## Summary
 Given a version number MAJOR.MINOR.PATCH, increment the:
